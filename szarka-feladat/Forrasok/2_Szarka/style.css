@@ -1,0 +1,36 @@
+body {
+    background-color: #f0f8ff;
+    color: #00008b;
+}
+h2 {
+    color: crimson;
+}
+a {
+    color: crimson;
+}
+#kepvonal {
+    width: 70%;
+    float: center;
+}
+.kep1 {
+    text-align: center;
+    margin: 0 auto;
+}
+.kep2 {
+    width: 230px;
+    height: 153px;
+    float: right;
+    border: 1px;
+}
+#table1{
+    text-align: center;
+    margin: 0 auto;
+    width: 500;
+    border:0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.hketto{
+    color: aliceblue;
+    background-color: crimson;
+}
