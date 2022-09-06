@@ -15,12 +15,19 @@ a {
 .kep1 {
     text-align: center;
     margin: 0 auto;
+    width: 230px;
+    height: 153px;
+
 }
 .kep2 {
     width: 230px;
     height: 153px;
     float: right;
     border: 1px;
+}
+.elsotabla{
+    width: 230px;
+    height: 153px;
 }
 #table1{
     text-align: center;
@@ -33,4 +40,7 @@ a {
 .hketto{
     color: aliceblue;
     background-color: crimson;
+}
+#vegsodiv{
+    text-align: center;
 }
